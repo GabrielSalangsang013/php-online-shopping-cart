@@ -175,9 +175,9 @@ COMMIT;
 $ git clone https://github.com/GabrielSalangsang013/php-online-shopping-cart.git
 ```
 
-#### 4. Go to the xampp\htdocs folder and place the shopping-cart folder (project folder).
+#### 4. Go to the xampp\htdocs folder and place the php-online-shopping-cart folder (project folder).
 
-#### 5. Open a browser, and visit [http://localhost/shopping-cart](http://localhost/shopping-cart).
+#### 5. Open a browser, and visit [http://localhost/php-online-shopping-cart](http://localhost/php-online-shopping-cart).
 
 ### MORE IMAGES
 

@@ -170,14 +170,14 @@ COMMIT;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
 
-#### 3. Clone the repo.
+#### 6. Clone the repo.
 ```sh
 $ git clone https://github.com/GabrielSalangsang013/php-online-shopping-cart.git
 ```
 
-#### 4. Go to the xampp\htdocs folder and place the php-online-shopping-cart folder (project folder).
+#### 7. Go to the xampp\htdocs folder and place the php-online-shopping-cart folder (project folder).
 
-#### 5. Open a browser, and visit [http://localhost/php-online-shopping-cart](http://localhost/php-online-shopping-cart).
+#### 8. Open a browser, and visit [http://localhost/php-online-shopping-cart](http://localhost/php-online-shopping-cart).
 
 ### MORE IMAGES
 
